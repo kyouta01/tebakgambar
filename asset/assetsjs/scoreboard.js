@@ -34,6 +34,6 @@ resetBtn.addEventListener('click', () => {
 tampilkanScore();
 
 // Tombol Home kembali ke halaman utama
-document.getElementById('homeBtn').addEventListener('click', () => {
-  window.location.href = '/'; // ganti dengan nama file halaman utama Anda
-});
+//document.getElementById('homeBtn').addEventListener('click', () => {
+//window.location.href = '/'; // ganti dengan nama file halaman utama Anda
+//});
